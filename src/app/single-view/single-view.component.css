@@ -1,0 +1,54 @@
+.btn-secondary{
+    background-color:#c6c6c2 !important;
+    border-color:darkgrey !important;
+    color:black !important;
+}
+
+.centre-align{
+    padding-left:25%;
+}
+
+
+.text-info{
+    font-size:20px !important;
+    color:black !important;
+  /*  text-shadow: 2px 1px grey;*/
+    font-family:'Alex Brush' !important;
+    font-weight:bold !important;
+}
+
+
+.match-logo{
+    width:50%;
+    height:auto;
+}
+   .match-heading{
+    font-size:3.3vmin;
+    font-family:impact;
+    color:#4E4E50;
+}
+
+  /*  #mytable > table.table td {
+      padding-left:15vmin;
+  } */
+  #name-adjust{
+    padding-left:15vmin;
+    padding-right:15vmin;
+    width:30%;
+  }
+  
+   .heading-singlematch{
+      font-size:3.5vmin;
+      color:black;
+      text-shadow: 2px 1px grey;
+      font-family:'Alex Brush';
+      font-weight:bold;
+  }
+   .value-singlematch{
+       font-size:2.7vmin;
+       font-family:cursive;
+  }
+  #back-button{
+      
+      cursor:pointer;
+  }

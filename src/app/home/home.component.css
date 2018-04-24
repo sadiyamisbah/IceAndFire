@@ -1,0 +1,44 @@
+#adjust{
+    text-align:center;
+    margin:0 auto;
+    }
+
+
+.color-adjust{
+    color:white;
+    font-family:'Alex Brush';
+
+}
+#filter-design{
+    color:black;
+    font-family: 'Alex Brush';
+    font-weight:bold;
+}
+
+.bg-books{
+    background-color:#82563d !important;
+}
+
+.bg-chars{
+    background-color:#70545f !important;
+}
+
+
+.bg-houses{ 
+    background-color:#30302f !important;
+}
+
+.btn-success{
+    background-color:#604c54 !important;
+    border-color:#604c54 !important;
+}
+
+.btn-primary{
+    background-color:#74787c !important;
+    border-color:#74787c !important;
+}
+
+.btn-secondary{
+    background-color:#513321 !important;
+    border-color:#513321 !important;
+}
